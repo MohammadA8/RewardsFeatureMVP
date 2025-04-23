@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "RewardsFeatureMVP",
+    "slug": "rewardsfeaturemvp",
+    "version": "1.0.0",
+    "scheme": "rewardsapp",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.rewardsfeaturemvp"
+    },
+    "android": {
+      "package": "com.yourcompany.rewardsfeaturemvp"
+    }
+  }
+} 
